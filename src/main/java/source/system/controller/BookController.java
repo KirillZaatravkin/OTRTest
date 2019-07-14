@@ -11,7 +11,7 @@ import java.util.HashMap;
 
 
 @org.springframework.stereotype.Controller
-public class ControllerBook {
+public class BookController {
 
     @Autowired
     BookService bookService;

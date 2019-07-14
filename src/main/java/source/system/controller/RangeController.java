@@ -10,7 +10,7 @@ import source.system.service.RangeService;
 
 
 @Controller
-public class ControllerRange
+public class RangeController
 {
 
     @Autowired
